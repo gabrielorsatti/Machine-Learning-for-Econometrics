@@ -74,7 +74,7 @@ Les bourses de l'université Polytechnique de Portalegre étant attribuées sur 
 | DML-IRM (RF) | Non-paramétrique | Oui (APE / ATE) |
 | AIPW (RF) | Double robustesse | Oui (ATE) |
 
-La **triangulation** des estimateurs — reposant sur des hypothèses d'identification distinctes — permet de renforcer la robustesse des conclusions.
+La **triangulation** des estimateurs - reposant sur des hypothèses d'identification distinctes - permet de renforcer la robustesse des conclusions.
 
 ---
 
