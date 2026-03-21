@@ -20,7 +20,7 @@ Peut-on identifier un **effet causal** de l'obtention d'une bourse d'études sur
 Le dataset recense le parcours de **4 424 étudiants** inscrits dans différentes filières de la Polytechnic University of Portalegre (Portugal) entre 2008 et 2018. Il contient des informations socio-démographiques, académiques, économiques, ainsi que le statut final de chaque étudiant.
 
 **Variable de traitement (D) :** détention d'une bourse d'études  
-**Variable d'outcome (Y) :** statut académique final — `Dropout` / `Enrolled` / `Graduate`
+**Variable d'outcome (Y) :** statut académique final - `Dropout` / `Enrolled` / `Graduate`
 
 Les bourses de l'université Polytechnique de Portalegre étant attribuées sur critères sociaux définis par le gouvernement portugais, l'attribution n'est pas aléatoire et justifie le recours à des méthodes d'identification causale.
 
