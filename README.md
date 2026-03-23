@@ -101,7 +101,7 @@ pip install ucimlrepo doubleml scikit-learn statsmodels pandas numpy matplotlib 
 ### Lancer le notebook
 
 ```bash
-jupyter notebook main_final.ipynb
+jupyter notebook main_fixed.ipynb
 ```
 
 Les données sont téléchargées automatiquement depuis le UCI ML Repository via `fetch_ucirepo(id=697)`.
